@@ -1,8 +1,8 @@
-.TH IC 1 ic
+.TH IC 1 irc2
 .SH NAME
-ic \- IRC client
+irc2 \- IRC client
 .SH SYNOPSIS
-.B ic
+.B irc2
 .RB [ \-h
 .IR host ]
 .RB [ \-p
@@ -13,7 +13,7 @@ ic \- IRC client
 .IR pass ]
 .RB [ \-v ]
 .SH DESCRIPTION
-.B ic
+.B irc2
 is an extremely fast, small and simple irc client. It reads commands from
 standard input and prints all server output to standard output. It also
 multiplexes all channel traffic into one output. That way you don't have to
